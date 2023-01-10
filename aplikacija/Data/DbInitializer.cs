@@ -12,7 +12,7 @@ namespace aplikacija.Data
             context.Database.EnsureCreated();
 
             // Look for any students.
-            if (context.Osebe.Any())
+            if (context.Proizvajalci.Any())
             {
                 return;   // DB has been seeded
             }
