@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Dobrodošli na smartbuy</h1>
+    <asp:LoginView id="viewAdmin" runat="server">
+        <RoleGroups>
+            <asp:RoleGroup Roles="Administrator">
+                <ContentTemplate>
+                    <asp:LoginName id="LoginName2" runat="Server"></asp:LoginName>
+                </ContentTemplate>
+            </asp:RoleGroup>
+        </RoleGroups>
+    </asp:Loginview>     
+</div>

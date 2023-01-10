@@ -1,0 +1,48 @@
+@model aplikacija.Models.Naslov
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Naslov</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HisnaSt)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HisnaSt)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Ulica)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Ulica)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Posta)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Posta)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Mesto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Mesto)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Oseba)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Oseba.Ime)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.NaslovID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

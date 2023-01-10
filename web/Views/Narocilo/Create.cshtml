@@ -1,0 +1,51 @@
+@model aplikacija.Models.Narocilo
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Narocilo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="OsebaID" class="control-label"></label>
+                <select asp-for="OsebaID" class ="form-control" asp-items="ViewBag.OsebaID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="StatusID" class="control-label"></label>
+                <select asp-for="StatusID" class ="form-control" asp-items="ViewBag.StatusID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="NaslovID" class="control-label"></label>
+                <select asp-for="NaslovID" class ="form-control" asp-items="ViewBag.NaslovID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipPrevzemaID" class="control-label"></label>
+                <select asp-for="TipPrevzemaID" class ="form-control" asp-items="ViewBag.TipPrevzemaID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Datum" class="control-label"></label>
+                <input asp-for="Datum" class="form-control" />
+                <span asp-validation-for="Datum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="skupniZnesek" class="control-label"></label>
+                <input asp-for="skupniZnesek" class="form-control" />
+                <span asp-validation-for="skupniZnesek" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

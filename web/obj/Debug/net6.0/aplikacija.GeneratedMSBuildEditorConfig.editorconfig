@@ -1,0 +1,224 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = aplikacija
+build_property.RootNamespace = aplikacija
+build_property.ProjectDir = c:\Users\Nik\Desktop\smartbuyAPP\web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Nik\Desktop\smartbuyAPP\web
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Artikli/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWtsaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Artikli/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWtsaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Artikli/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWtsaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Artikli/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWtsaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Artikli/Full.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWtsaVxGdWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Artikli/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWtsaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Kategorija/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Kategorija/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Kategorija/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Kategorija/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Kategorija/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Narocilo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFyb2NpbG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Narocilo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFyb2NpbG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Narocilo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFyb2NpbG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Narocilo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFyb2NpbG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Narocilo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFyb2NpbG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Naslov/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFzbG92XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Naslov/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFzbG92XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Naslov/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFzbG92XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Naslov/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFzbG92XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Naslov/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFzbG92XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Ocena/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Ocena/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Ocena/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Ocena/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Ocena/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Osebe/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3NlYmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Osebe/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3NlYmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Osebe/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3NlYmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Osebe/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3NlYmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Osebe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3NlYmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Proizvajalec/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2YWphbGVjXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Proizvajalec/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2YWphbGVjXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Proizvajalec/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2YWphbGVjXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Proizvajalec/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2YWphbGVjXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Proizvajalec/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvaXp2YWphbGVjXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Nik/Desktop/smartbuyAPP/web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
