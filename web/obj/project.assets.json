@@ -10836,11 +10836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\Desktop\\novaVerzija\\aplikacija.csproj",
+      "projectUniqueName": "C:\\Users\\Nik\\Desktop\\smartbuyAPP\\web\\aplikacija.csproj",
       "projectName": "aplikacija",
-      "projectPath": "C:\\Users\\Nik\\Desktop\\novaVerzija\\aplikacija.csproj",
+      "projectPath": "C:\\Users\\Nik\\Desktop\\smartbuyAPP\\web\\aplikacija.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\Desktop\\novaVerzija\\obj\\",
+      "outputPath": "C:\\Users\\Nik\\Desktop\\smartbuyAPP\\web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config"

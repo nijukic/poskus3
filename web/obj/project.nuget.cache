@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AnzubLD8RSXn+z17NUsURF+RRZyNsKvYAbHQbjyhUCBvSWlDNpLZJaXEKqVni8q8yj6VgAoR2Zm8ovwzp65zuw==",
+  "dgSpecHash": "qzw6DzfFerUm1C3Qq5WuM753HqnFz5FeW5XhmoceRaFofT7fUY9VIC8mYaj64sACc2/LFY5Ckgh1RGiT36GTNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nik\\Desktop\\novaVerzija\\aplikacija.csproj",
+  "projectFilePath": "C:\\Users\\Nik\\Desktop\\smartbuyAPP\\web\\aplikacija.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nik\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nik\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
